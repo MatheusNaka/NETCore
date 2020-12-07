@@ -4,7 +4,6 @@ namespace GameTop
     {
         string Correr();
         string Chutar();
-
         string Passar();
     }
 }
